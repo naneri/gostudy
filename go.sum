@@ -1,0 +1,5 @@
+github.com/cloud-native-go/examples v0.0.0-20210607125413-8aafc16cb3dc h1:wEccT9eyVNBXxPAPrRl3ycbdJ5MAZuG0T8vLRoOe3L8=
+github.com/cloud-native-go/examples v0.0.0-20210607125413-8aafc16cb3dc/go.mod h1:s3W6IxwWkqWAk7jYuqIh/jDF70jz9EB0djvdaVO0wAY=
+github.com/go-errors/errors v1.1.1/go.mod h1:psDX2osz5VnTOnFWbDeWwS7yejl+uV3FEWEp4lssFEs=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/lib/pq v1.10.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
